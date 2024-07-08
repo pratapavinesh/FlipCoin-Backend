@@ -22,7 +22,8 @@ Follow these steps to set up and deploy the project:
 2. Navigate to `/FlipCoin-Backend/`
 3. Install client dependencies: `npm install`
 4. Start a local Hardhat Ethereum node: `npx hardhat node`
-5. Deploy contracts to the local node: `npx hardhat run scripts/deploy.js --network localhost`
+5. Move to other Terminal and navigate to : `/FlipCoin-Backend/`
+6. Deploy contracts to the local node: `npx hardhat run scripts/deploy.js --network localhost`
 
 
 Now you can interact with the loyalty and rewards program with Frontend
